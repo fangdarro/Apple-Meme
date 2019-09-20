@@ -1,2 +1,0 @@
-# Meme
-Created with CodeSandbox
